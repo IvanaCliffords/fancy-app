@@ -1,0 +1,32 @@
+.primary-footer {
+  background-color: hsl(196, 96%, 11%);
+  color: #fff;
+  text-align: center;
+  padding: 3rem 0;
+  line-height: 1.7rem;
+}
+
+.primary-footer h3 {
+  font-weight: 900;
+  font-size: 1.2rem;
+  padding-bottom: 1rem;
+  letter-spacing: 1px;
+}
+
+.primary-footer p {
+  font-size: 0.9rem;
+}
+
+.footer-link {
+  display: block;
+  color: hsl(15, 100%, 94%);
+  text-decoration: none;
+  font-weight: 700;
+  padding-top: 2rem;
+  font-size: 1.1rem;
+}
+
+.footer-link:hover {
+  color: hsl(12, 86%, 68%);
+  font-weight: 900;
+}

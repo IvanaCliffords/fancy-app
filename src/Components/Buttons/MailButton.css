@@ -1,0 +1,13 @@
+.mail-link {
+  display: block;
+  color: hsl(15, 100%, 94%);
+  text-decoration: none;
+  font-weight: 700;
+  padding-top: 2rem;
+  font-size: 1.1rem;
+}
+
+.mail-link:hover {
+  color: hsl(12, 86%, 68%);
+  font-weight: 900;
+}
